@@ -1,7 +1,7 @@
 # Bridge
 My Final Year Project (Bridge)
 
-INTRODUCTION
+INTRODUCTION:
 The aim of this project was to transform “Floating Bridge”, a card game deeply embedded in
 Singapore’s cultural heritage, into a digital format. This endeavour seeks to respect and
 preserve the traditional rules and strategic complexities of the game while providing a web
